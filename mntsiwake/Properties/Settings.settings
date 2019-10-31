@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="mntsiwake.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="appInstPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\TKSM_OCR\</Value>
+    </Setting>
+    <Setting Name="sqlServerName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">YMGW-PC\OBCINSTANCE3X</Value>
+    </Setting>
+    <Setting Name="sqlUID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">fkdl</Value>
+    </Setting>
+    <Setting Name="sqlPWD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sqlPass</Value>
+    </Setting>
+    <Setting Name="sqlCurrentDB" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">obc3sresource</Value>
+    </Setting>
+    <Setting Name="hosei" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="gengou" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">平成</Value>
+    </Setting>
+    <Setting Name="mdbPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\TKSM_OCR\henkan\kanjo2kconfig.mdb</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
